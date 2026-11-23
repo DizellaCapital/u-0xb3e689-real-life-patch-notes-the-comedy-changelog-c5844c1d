@@ -2,6 +2,8 @@
 
 Writes one patch-note line (max 160 characters) for a bug in real life:
 the mouth auto-replying "you too" when the waiter says "enjoy your meal".
+The line is 98 characters, well inside the 160-character gate, with no
+padding: every word is needed for the joke to land on first read.
 Standard library only; no network; no input beyond this constant.
 """
 
